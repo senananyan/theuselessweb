@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ko-fi.com	TRUE	/	FALSE	1999999999	__cfduid	dad3853cd1f87ca2cb1178e65d93468101591717706
+ko-fi.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
